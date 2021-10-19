@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Daniel
-- 👀 I’m interested in programing
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on my project?
 - 📫 How to reach me, send me mail :D
